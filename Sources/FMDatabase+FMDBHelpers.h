@@ -1,4 +1,4 @@
-#import "FMDatabase.h"
+#import <FMDB/FMDatabase.h>
 
 @interface FMDatabase (FMDBHelpers)
 
